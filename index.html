@@ -100,6 +100,69 @@
         
           <section id="main">
   
+    <article id="post-Python配置PyQt-QtDesigner" class="article article-type-post" itemscope="" itemprop="blogPost">
+  <div id="articleInner" class="clearfix post-1016 post type-post status-publish format-standard has-post-thumbnail hentry category-template-2 category-uncategorized tag-codex tag-edge-case tag-featured-image tag-image tag-template">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="thumb" itemprop="name">
+      <a class="article-title" href="/2019/05/03/Python配置PyQt-QtDesigner/">Python配置PyQt+QtDesigner</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-meta">
+      
+	<a href="/2019/05/03/Python配置PyQt-QtDesigner/" class="article-date">
+	  <time datetime="2019-05-03T12:43:11.000Z" itemprop="datePublished">May 3, 2019</time>
+	</a>
+
+      
+	<span class="ico-folder"></span>
+    <a class="article-category-link" href="/categories/Python/">Python</a>
+ 
+      
+    </div>
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h3 id="1-安装Python"><a href="#1-安装Python" class="headerlink" title="1. 安装Python"></a>1. 安装Python</h3><p><a href="https://www.python.org/downloads/" target="_blank" rel="noopener">https://www.python.org/downloads/</a></p>
+<h3 id="2-安装PyQt5"><a href="#2-安装PyQt5" class="headerlink" title="2. 安装PyQt5"></a>2. 安装PyQt5</h3><blockquote>
+<p>pip3 install PyQt5</p>
+</blockquote>
+<h3 id="3-安装Qt"><a href="#3-安装Qt" class="headerlink" title="3. 安装Qt"></a>3. 安装Qt</h3><p><a href="http://download.qt.io/official_releases/qt/" target="_blank" rel="noopener">http://download.qt.io/official_releases/qt/</a></p>
+<h3 id="4-安装PyCharm"><a href="#4-安装PyCharm" class="headerlink" title="4. 安装PyCharm"></a>4. 安装PyCharm</h3><p><a href="https://www.jetbrains.com/pycharm/download/#section=mac" target="_blank" rel="noopener">https://www.jetbrains.com/pycharm/download/#section=mac</a></p>
+<h3 id="5-配置QtDesigner"><a href="#5-配置QtDesigner" class="headerlink" title="5. 配置QtDesigner"></a>5. 配置QtDesigner</h3><p><img src="http://qiniu.zxxdb.com/WX20190503-210456@2x.png" alt="进入perferences"></p>
+<p><img src="http://qiniu.zxxdb.com/WX20190503-210527@2x.png" alt="进入External Tools"></p>
+<p><img src="http://qiniu.zxxdb.com/WX20190503-210558@2x.png" alt="配置QtDesigner"></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Arguments: -m PyQt5.uic.pyuic $FileName$ -o $FileNameWithoutExtensions$.py</span><br></pre></td></tr></table></figure>
+<p><img src="http://qiniu.zxxdb.com/WX20190503-210622@2x.png" alt="配置PyUIC 把ui转为py文件"></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Arguments: -m PyQt5.pyrcc $FileName$ -o $FileNameWithoutExtension$_rc.py</span><br></pre></td></tr></table></figure>
+<p><img src="http://qiniu.zxxdb.com/WX20190503-210924@2x.png" alt="配置Pyrcc 把py转为ui"></p>
+
+      
+    </div>
+    <footer class="entry-meta entry-footer">
+      
+	<span class="ico-folder"></span>
+    <a class="article-category-link" href="/categories/Python/">Python</a>
+
+      
+  <span class="ico-tags"></span>
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Python/">Python</a></li></ul>
+
+      
+    </footer>
+    <hr class="entry-footer-hr">
+  </div>
+  
+</article>
+
+<!-- Table of Contents -->
+
+  
     <article id="post-Dos命令" class="article article-type-post" itemscope="" itemprop="blogPost">
   <div id="articleInner" class="clearfix post-1016 post type-post status-publish format-standard has-post-thumbnail hentry category-template-2 category-uncategorized tag-codex tag-edge-case tag-featured-image tag-image tag-template">
     
@@ -604,64 +667,6 @@
 <!-- Table of Contents -->
 
   
-    <article id="post-实用工具" class="article article-type-post" itemscope="" itemprop="blogPost">
-  <div id="articleInner" class="clearfix post-1016 post type-post status-publish format-standard has-post-thumbnail hentry category-template-2 category-uncategorized tag-codex tag-edge-case tag-featured-image tag-image tag-template">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 class="thumb" itemprop="name">
-      <a class="article-title" href="/2018/11/13/实用工具/">实用工具</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="article-meta">
-      
-	<a href="/2018/11/13/实用工具/" class="article-date">
-	  <time datetime="2018-11-13T04:56:27.000Z" itemprop="datePublished">November 13, 2018</time>
-	</a>
-
-      
-	<span class="ico-folder"></span>
-    <a class="article-category-link" href="/categories/默认分类/">默认分类</a>
- 
-      
-    </div>
-    <div class="article-entry" itemprop="articleBody">
-      
-        <p><a href="http://qiniu.zxxdb.com/BANDIZIP-SETUP.EXE" target="_blank" rel="noopener">Bandizip</a></p>
-<p><a href="http://qiniu.zxxdb.com/iobituninstaller.exe" target="_blank" rel="noopener">iobit uninstaller</a></p>
-<p><a href="http://qiniu.zxxdb.com/PotPlayerSetup64.exe" target="_blank" rel="noopener">Potplayer</a></p>
-<p><a href="http://qiniu.zxxdb.com/Thunder.v5.8.14.706.NoAD-Ayu.exe" target="_blank" rel="noopener">迅雷5.8</a></p>
-<p>安装时不必要勾选的都别选</p>
-<p><img src="http://qiniu.zxxdb.com/c9c537d029486fc406d7417b06c84495.png" alt="只选择必要的"></p>
-<p>最好别升级了，迅雷就这版好用，把升级删掉，一了百了</p>
-<p><img src="http://qiniu.zxxdb.com/e72bbe3273328ae725991a9bd1a07075.png" alt="删掉"></p>
-
-      
-    </div>
-    <footer class="entry-meta entry-footer">
-      
-	<span class="ico-folder"></span>
-    <a class="article-category-link" href="/categories/默认分类/">默认分类</a>
-
-      
-  <span class="ico-tags"></span>
-  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Tools/">Tools</a></li></ul>
-
-      
-    </footer>
-    <hr class="entry-footer-hr">
-  </div>
-  
-</article>
-
-<!-- Table of Contents -->
-
-  
 
 
   <nav id="page-nav">
@@ -729,6 +734,18 @@
               <div class="widget-entry-summary" style="margin: 0;">
             
 
+              <h6 style="margin: 0;"><a href="/2019/05/03/Python配置PyQt-QtDesigner/">Python配置PyQt+QtDesigner</a></h6>
+              <span>May 3, 2019</span>
+            </div>
+
+          </li>
+        
+          <li class="clearfix">
+
+            
+              <div class="widget-entry-summary" style="margin: 0;">
+            
+
               <h6 style="margin: 0;"><a href="/2019/04/14/Dos命令/">Dos命令</a></h6>
               <span>April 14, 2019</span>
             </div>
@@ -783,18 +800,6 @@
 
           </li>
         
-          <li class="clearfix">
-
-            
-              <div class="widget-entry-summary" style="margin: 0;">
-            
-
-              <h6 style="margin: 0;"><a href="/2018/11/30/Python-homework/">Python-homework</a></h6>
-              <span>November 30, 2018</span>
-            </div>
-
-          </li>
-        
       </ul>
     </div>
   </div>
@@ -804,7 +809,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">Categories</h3>
     <div class="widget">
-      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/C/">C</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Python/">Python</a><span class="category-list-count">13</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Scratch/">Scratch</a><span class="category-list-count">5</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/默认分类/">默认分类</a><span class="category-list-count">7</span></li></ul>
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/C/">C</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Python/">Python</a><span class="category-list-count">14</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Scratch/">Scratch</a><span class="category-list-count">5</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/默认分类/">默认分类</a><span class="category-list-count">7</span></li></ul>
     </div>
   </div>
 
@@ -815,7 +820,7 @@
     <h3 class="widget-title">Archives</h3>
 
     <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/04/">April 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/02/">February 2019</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/01/">January 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/12/">December 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/11/">November 2018</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/10/">October 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/08/">August 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/07/">July 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/06/">June 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/05/">May 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/04/">April 2018</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/03/">March 2018</a><span class="archive-list-count">5</span></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/05/">May 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/04/">April 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/02/">February 2019</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/01/">January 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/12/">December 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/11/">November 2018</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/10/">October 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/08/">August 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/07/">July 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/06/">June 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/05/">May 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/04/">April 2018</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/03/">March 2018</a><span class="archive-list-count">5</span></li></ul>
     </div>
   </div>
 

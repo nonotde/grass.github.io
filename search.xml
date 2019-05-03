@@ -3,6 +3,29 @@
   
     
     <entry>
+      <title>Python配置PyQt+QtDesigner</title>
+      <link href="/2019/05/03/Python%E9%85%8D%E7%BD%AEPyQt-QtDesigner/"/>
+      <url>/2019/05/03/Python%E9%85%8D%E7%BD%AEPyQt-QtDesigner/</url>
+      
+        <content type="html"><![CDATA[<h3 id="1-安装Python"><a href="#1-安装Python" class="headerlink" title="1. 安装Python"></a>1. 安装Python</h3><p><a href="https://www.python.org/downloads/" target="_blank" rel="noopener">https://www.python.org/downloads/</a></p><h3 id="2-安装PyQt5"><a href="#2-安装PyQt5" class="headerlink" title="2. 安装PyQt5"></a>2. 安装PyQt5</h3><blockquote><p>pip3 install PyQt5</p></blockquote><h3 id="3-安装Qt"><a href="#3-安装Qt" class="headerlink" title="3. 安装Qt"></a>3. 安装Qt</h3><p><a href="http://download.qt.io/official_releases/qt/" target="_blank" rel="noopener">http://download.qt.io/official_releases/qt/</a></p><h3 id="4-安装PyCharm"><a href="#4-安装PyCharm" class="headerlink" title="4. 安装PyCharm"></a>4. 安装PyCharm</h3><p><a href="https://www.jetbrains.com/pycharm/download/#section=mac" target="_blank" rel="noopener">https://www.jetbrains.com/pycharm/download/#section=mac</a></p><h3 id="5-配置QtDesigner"><a href="#5-配置QtDesigner" class="headerlink" title="5. 配置QtDesigner"></a>5. 配置QtDesigner</h3><p><img src="http://qiniu.zxxdb.com/WX20190503-210456@2x.png" alt="进入perferences"></p><p><img src="http://qiniu.zxxdb.com/WX20190503-210527@2x.png" alt="进入External Tools"></p><p><img src="http://qiniu.zxxdb.com/WX20190503-210558@2x.png" alt="配置QtDesigner"></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Arguments: -m PyQt5.uic.pyuic $FileName$ -o $FileNameWithoutExtensions$.py</span><br></pre></td></tr></table></figure><p><img src="http://qiniu.zxxdb.com/WX20190503-210622@2x.png" alt="配置PyUIC 把ui转为py文件"></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Arguments: -m PyQt5.pyrcc $FileName$ -o $FileNameWithoutExtension$_rc.py</span><br></pre></td></tr></table></figure><p><img src="http://qiniu.zxxdb.com/WX20190503-210924@2x.png" alt="配置Pyrcc 把py转为ui"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>Dos命令</title>
       <link href="/2019/04/14/Dos%E5%91%BD%E4%BB%A4/"/>
       <url>/2019/04/14/Dos%E5%91%BD%E4%BB%A4/</url>
