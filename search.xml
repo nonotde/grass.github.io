@@ -3,23 +3,6 @@
   
     
     <entry>
-      <title>TestMD</title>
-      <link href="/2019/05/08/TestMD/"/>
-      <url>/2019/05/08/TestMD/</url>
-      
-        <content type="html"><![CDATA[<ol><li>列表1<ol><li>列表2<ol><li>列表111</li><li>列表222</li></ol></li></ol></li><li>列表3</li></ol><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> pygame</span><br><span class="line"><span class="comment"># 显示pygame版本</span></span><br><span class="line">pygame.ver()</span><br></pre></td></tr></table></figure><ul><li style="list-style: none"><input type="checkbox"> item1</li><li style="list-style: none"><input type="checkbox"> item2</li><li style="list-style: none"><input type="checkbox" checked> item3</li><li style="list-style: none"><input type="checkbox"> Item4</li></ul><table><thead><tr><th>表格1</th><th>表格2</th></tr></thead><tbody><tr><td>表格3</td><td>表格4</td></tr></tbody></table><p><u>下划线</u></p><iframe height="265" scrolling="no" title="Fancy Animated SVG Menu" src="http://www.baidu.com" frameborder="no" allowtransparency="true" allowfullscreen="true" style="width: 100%;"></iframe>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> md </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
       <title>Python配置PyQt+QtDesigner</title>
       <link href="/2019/05/03/Python%E9%85%8D%E7%BD%AEPyQt-QtDesigner/"/>
       <url>/2019/05/03/Python%E9%85%8D%E7%BD%AEPyQt-QtDesigner/</url>
