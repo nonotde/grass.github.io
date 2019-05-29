@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search> 
   
+  
     
     <entry>
       <title>Html工具</title>
@@ -25,6 +26,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>Python配置PyQt+QtDesigner</title>
       <link href="/2019/05/03/Python%E9%85%8D%E7%BD%AEPyQt-QtDesigner/"/>
@@ -48,6 +51,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>Dos命令</title>
       <link href="/2019/04/14/Dos%E5%91%BD%E4%BB%A4/"/>
@@ -59,6 +64,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>QuickLook插件</title>
       <link href="/2019/02/25/QuickLook%E6%8F%92%E4%BB%B6/"/>
@@ -69,6 +76,8 @@
       
       
     </entry>
+    
+    
     
     <entry>
       <title>Python安装</title>
@@ -93,6 +102,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>Python3输入中文</title>
       <link href="/2019/01/13/Python3%E8%BE%93%E5%85%A5%E4%B8%AD%E6%96%87/"/>
@@ -115,6 +126,8 @@
         </tags>
       
     </entry>
+    
+    
     
     <entry>
       <title>PythonIDE</title>
@@ -139,6 +152,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>Python-homework</title>
       <link href="/2018/11/30/Python-homework/"/>
@@ -161,6 +176,8 @@
         </tags>
       
     </entry>
+    
+    
     
     <entry>
       <title>Sublime Text3下编译C（Linux）</title>
@@ -185,6 +202,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>Scrath课程</title>
       <link href="/2018/11/19/Scrath%E8%AF%BE%E7%A8%8B/"/>
@@ -207,6 +226,8 @@
         </tags>
       
     </entry>
+    
+    
     
     <entry>
       <title>Python-Snake</title>
@@ -231,6 +252,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>实用工具</title>
       <link href="/2018/11/13/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
@@ -254,6 +277,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>Teamviewer</title>
       <link href="/2018/11/07/Teamviewer-1/"/>
@@ -270,6 +295,8 @@
       
       
     </entry>
+    
+    
     
     <entry>
       <title>python basic</title>
@@ -288,6 +315,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>python3 解决编码问题</title>
       <link href="/2018/11/03/68/"/>
@@ -304,6 +333,8 @@
       
       
     </entry>
+    
+    
     
     <entry>
       <title>git resource</title>
@@ -322,6 +353,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>科.学.上.网</title>
       <link href="/2018/08/05/61/"/>
@@ -338,6 +371,8 @@
       
       
     </entry>
+    
+    
     
     <entry>
       <title>飞机2018</title>
@@ -356,6 +391,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>python apple resource</title>
       <link href="/2018/06/02/56/"/>
@@ -372,6 +409,8 @@
       
       
     </entry>
+    
+    
     
     <entry>
       <title>python sudoku 图片</title>
@@ -390,6 +429,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>python3的图片</title>
       <link href="/2018/04/30/42/"/>
@@ -406,6 +447,8 @@
       
       
     </entry>
+    
+    
     
     <entry>
       <title>python5用到的字库</title>
@@ -424,6 +467,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>escape</title>
       <link href="/2018/04/09/39/"/>
@@ -440,6 +485,8 @@
       
       
     </entry>
+    
+    
     
     <entry>
       <title>测试编程水平</title>
@@ -464,6 +511,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>Python习题</title>
       <link href="/2018/04/05/36/"/>
@@ -480,6 +529,8 @@
       
       
     </entry>
+    
+    
     
     <entry>
       <title>滚动的天空</title>
@@ -504,6 +555,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>linux安装python3</title>
       <link href="/2018/03/23/34/"/>
@@ -520,6 +573,8 @@
       
       
     </entry>
+    
+    
     
     <entry>
       <title>linux和mac下sublime使用python3</title>
@@ -544,6 +599,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>Scratch安装</title>
       <link href="/2018/03/13/Scratch%E5%AE%89%E8%A3%85/"/>
@@ -567,6 +624,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>临时分享地址</title>
       <link href="/2018/03/13/%E4%B8%B4%E6%97%B6%E5%88%86%E4%BA%AB%E5%9C%B0%E5%9D%80/"/>
@@ -589,6 +648,7 @@
         </tags>
       
     </entry>
+    
     
   
   
