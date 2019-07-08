@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://doc.zxxdb.com/"/>
-  <updated>2019-06-25T13:44:21.637Z</updated>
+  <updated>2019-07-08T13:32:34.954Z</updated>
   <id>http://doc.zxxdb.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Snake</title>
+    <link href="http://doc.zxxdb.com/2019/07/08/Snake/"/>
+    <id>http://doc.zxxdb.com/2019/07/08/Snake/</id>
+    <published>2019-07-08T13:31:17.000Z</published>
+    <updated>2019-07-08T13:32:34.954Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://qiniu.zxxdb.com/TPReUwvJ2B.gif" alt="蛇晃动效果"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://qiniu.zxxdb.com/TPReUwvJ2B.gif&quot; alt=&quot;蛇晃动效果&quot;&gt;&lt;/p&gt;
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://doc.zxxdb.com/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://doc.zxxdb.com/tags/Python/"/>
+    
+  </entry>
   
   <entry>
     <title>IDE(C/C++)</title>
@@ -463,29 +488,6 @@
     </summary>
     
       <category term="Scratch" scheme="http://doc.zxxdb.com/categories/Scratch/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>python apple resource</title>
-    <link href="http://doc.zxxdb.com/2018/06/02/56/"/>
-    <id>http://doc.zxxdb.com/2018/06/02/56/</id>
-    <published>2018-06-02T05:57:00.000Z</published>
-    <updated>2018-11-06T08:01:41.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="http://p4urfsisk.bkt.clouddn.com/python/apple.png" target="_blank" rel="noopener">点击下载1</a><br><a href="http://p4urfsisk.bkt.clouddn.com/python/knife.png" target="_blank" rel="noopener">点击下载2</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;a href=&quot;http://p4urfsisk.bkt.clouddn.com/python/apple.png&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;点击下载1&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://p4urfsisk.bkt.clo
-      
-    
-    </summary>
-    
-      <category term="Python" scheme="http://doc.zxxdb.com/categories/Python/"/>
     
     
   </entry>
