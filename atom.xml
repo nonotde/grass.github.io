@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://doc.zxxdb.com/"/>
-  <updated>2019-07-08T13:32:34.954Z</updated>
+  <updated>2019-09-12T06:53:33.952Z</updated>
   <id>http://doc.zxxdb.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>PythonNew</title>
+    <link href="http://doc.zxxdb.com/2019/09/12/PythonNew/"/>
+    <id>http://doc.zxxdb.com/2019/09/12/PythonNew/</id>
+    <published>2019-09-12T06:46:54.000Z</published>
+    <updated>2019-09-12T06:53:33.952Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="1-安装Python编译器"><a href="#1-安装Python编译器" class="headerlink" title="1. 安装Python编译器"></a>1. 安装Python编译器</h3><p><a href="http://qiniu.zxxdb.com/setup/python-3.7.4.exe" target="_blank" rel="noopener">Windows32位</a></p><p><a href="http://qiniu.zxxdb.com/setup/python-3.7.4-amd64.exe" target="_blank" rel="noopener">Windows64位</a></p><p><a href="http://qiniu.zxxdb.com/setup/python-3.7.4-macosx10.9.pkg" target="_blank" rel="noopener">MacOS10.9</a></p><p><a href="http://qiniu.zxxdb.com/setup/python-3.7.4-macosx10.6.pkg" target="_blank" rel="noopener">MacOS10.6</a></p><h3 id="2-安装VSCode"><a href="#2-安装VSCode" class="headerlink" title="2. 安装VSCode"></a>2. 安装VSCode</h3><p><a href="http://qiniu.zxxdb.com/setup/VSCodeUserSetup-ia32-1.38.1.exe" target="_blank" rel="noopener">Windows32位</a></p><p><a href="http://qiniu.zxxdb.com/setup/VSCodeUserSetup-x64-1.38.1.exe" target="_blank" rel="noopener">Windows64位</a></p><p><a href="http://qiniu.zxxdb.com/setup/VSCode-darwin-stable.zip" target="_blank" rel="noopener">MacOS</a></p><h3 id="3-安装pygame"><a href="#3-安装pygame" class="headerlink" title="3. 安装pygame"></a>3. 安装pygame</h3><p>Windows</p><blockquote><p>pip install pygame</p></blockquote><p>MacOS</p><blockquote><p>pip3 install pygame</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;1-安装Python编译器&quot;&gt;&lt;a href=&quot;#1-安装Python编译器&quot; class=&quot;headerlink&quot; title=&quot;1. 安装Python编译器&quot;&gt;&lt;/a&gt;1. 安装Python编译器&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://qiniu.zx
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://doc.zxxdb.com/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://doc.zxxdb.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Snake</title>
     <link href="http://doc.zxxdb.com/2019/07/08/Snake/"/>
     <id>http://doc.zxxdb.com/2019/07/08/Snake/</id>
     <published>2019-07-08T13:31:17.000Z</published>
-    <updated>2019-07-08T13:32:34.954Z</updated>
+    <updated>2019-07-10T11:03:45.570Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://qiniu.zxxdb.com/TPReUwvJ2B.gif" alt="蛇晃动效果"></p>]]></content>
     
@@ -465,29 +490,6 @@
     </summary>
     
       <category term="默认分类" scheme="http://doc.zxxdb.com/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>飞机2018</title>
-    <link href="http://doc.zxxdb.com/2018/07/25/60/"/>
-    <id>http://doc.zxxdb.com/2018/07/25/60/</id>
-    <published>2018-07-25T01:38:54.000Z</published>
-    <updated>2018-11-05T15:32:37.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="http://p4urfsisk.bkt.clouddn.com/2018.sb2" target="_blank" rel="noopener">下载</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;a href=&quot;http://p4urfsisk.bkt.clouddn.com/2018.sb2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;下载&lt;/a&gt;&lt;/p&gt;
-      
-    
-    </summary>
-    
-      <category term="Scratch" scheme="http://doc.zxxdb.com/categories/Scratch/"/>
     
     
   </entry>
