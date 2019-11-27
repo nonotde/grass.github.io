@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://doc.zxxdb.com/"/>
-  <updated>2019-11-05T09:06:32.307Z</updated>
+  <updated>2019-11-27T06:49:03.358Z</updated>
   <id>http://doc.zxxdb.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java环境和IDE</title>
+    <link href="http://doc.zxxdb.com/2019/11/27/Java%E7%8E%AF%E5%A2%83%E5%92%8CIDE/"/>
+    <id>http://doc.zxxdb.com/2019/11/27/Java环境和IDE/</id>
+    <published>2019-11-27T03:42:04.000Z</published>
+    <updated>2019-11-27T06:49:03.358Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Windows："><a href="#Windows：" class="headerlink" title="Windows："></a>Windows：</h2><blockquote><p>JDK <a href="http://qiniu.zxxdb.com/java/jdk-13.0.1_windows-x64_bin.exe" target="_blank" rel="noopener">下载</a></p></blockquote><p><u>IDE：</u></p><blockquote><p>eclipse <a href="http://qiniu.zxxdb.com/java/eclipse-java-2019-09-R-win32-x86_64.zip" target="_blank" rel="noopener">下载</a></p><p>ideaC <a href="http://qiniu.zxxdb.com/java/ideaIC-2019.2.4.exe" target="_blank" rel="noopener">下载</a></p><p>BlueJ <a href="http://qiniu.zxxdb.com/java/BlueJ-windows-422.msi" target="_blank" rel="noopener">下载</a></p></blockquote><h2 id="Mac："><a href="#Mac：" class="headerlink" title="Mac："></a>Mac：</h2><blockquote><p>JDK <a href="http://qiniu.zxxdb.com/java/jdk-13.0.1_osx-x64_bin.dmg" target="_blank" rel="noopener">下载</a></p></blockquote><p><u>IDE:</u></p><blockquote><p>eclipse <a href="http://qiniu.zxxdb.com/java/eclipse-java-2019-09-R-macosx-cocoa-x86_64.dmg" target="_blank" rel="noopener">下载</a></p><p>ideaC <a href="http://qiniu.zxxdb.com/java/ideaIC-2019.2.4.dmg" target="_blank" rel="noopener">下载</a></p><p>BlueJ <a href="http://qiniu.zxxdb.com/java/BlueJ-mac-422n.zip" target="_blank" rel="noopener">下载</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Windows：&quot;&gt;&lt;a href=&quot;#Windows：&quot; class=&quot;headerlink&quot; title=&quot;Windows：&quot;&gt;&lt;/a&gt;Windows：&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;JDK &lt;a href=&quot;http://qiniu.zxxdb.co
+      
+    
+    </summary>
+    
+      <category term="Java" scheme="http://doc.zxxdb.com/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="http://doc.zxxdb.com/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>Play-homework</title>
@@ -469,29 +494,6 @@
     </summary>
     
       <category term="Python" scheme="http://doc.zxxdb.com/categories/Python/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>git resource</title>
-    <link href="http://doc.zxxdb.com/2018/10/24/66/"/>
-    <id>http://doc.zxxdb.com/2018/10/24/66/</id>
-    <published>2018-10-24T04:05:13.000Z</published>
-    <updated>2018-11-08T06:58:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Git:</p><p>Windows 64: <a href="http://qiniu.zxxdb.com/Git-2.19.1-64-bit.exe" target="_blank" rel="noopener">点击下载</a></p><p>Windows 32：<a href="http://qiniu.zxxdb.com/Git-2.19.1-32-bit.exe" target="_blank" rel="noopener">点击下载</a></p><hr><p>SourceTree</p><p>windows：<a href="http://qiniu.zxxdb.com/SourceTreeSetup-3.0.8.exe" target="_blank" rel="noopener">点击下载</a></p><p>Mac：　　<a href="http://qiniu.zxxdb.com/Sourcetree_3.0_200.zip" target="_blank" rel="noopener">点击下载</a></p><hr><p>TortoriseGit</p><p>Windows64 <a href="http://qiniu.zxxdb.com/TortoiseGit-2.7.0.0-64bit.msi" target="_blank" rel="noopener">点击下载</a></p><p>Windows32 <a href="http://qiniu.zxxdb.com/TortoiseGit-2.7.0.0-32bit.msi" target="_blank" rel="noopener">点击下载</a></p><p>语言包</p><p>Windows64 <a href="http://qiniu.zxxdb.com/TortoiseGit-LanguagePack-2.7.0.0-64bit-zh_CN.msi" target="_blank" rel="noopener">点击下载</a></p><p>Windows32 <a href="http://qiniu.zxxdb.com/TortoiseGit-LanguagePack-2.7.0.0-32bit-zh_CN.msi" target="_blank" rel="noopener">点击下载</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Git:&lt;/p&gt;&lt;p&gt;Windows 64: &lt;a href=&quot;http://qiniu.zxxdb.com/Git-2.19.1-64-bit.exe&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;点击下载&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Windows 32：&lt;a
-      
-    
-    </summary>
-    
-      <category term="默认分类" scheme="http://doc.zxxdb.com/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
     
     
   </entry>
