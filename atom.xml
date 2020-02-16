@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://doc.zxxdb.com/"/>
-  <updated>2019-11-27T06:49:03.358Z</updated>
+  <updated>2020-02-16T03:20:26.450Z</updated>
   <id>http://doc.zxxdb.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Chrome</title>
+    <link href="http://doc.zxxdb.com/2020/02/16/Chrome/"/>
+    <id>http://doc.zxxdb.com/2020/02/16/Chrome/</id>
+    <published>2020-02-16T03:18:34.000Z</published>
+    <updated>2020-02-16T03:20:26.450Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/GoogleChromeEnterpriseBundle64.zip" target="_blank" rel="noopener">Window64下载</a></p><p><a href="http://qiniu.zxxdb.com/googlechrome.dmg" target="_blank" rel="noopener">Mac下载</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://qiniu.zxxdb.com/GoogleChromeEnterpriseBundle64.zip&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Window64下载&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://q
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Java环境和IDE</title>
@@ -466,29 +487,6 @@
       
       
         &lt;p&gt;&lt;a href=&quot;http://qiniu.zxxdb.com/mementopython3-v1.2.2-english.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;点击查看详情(下载)&lt;/a&gt;&lt;/p&gt;
-      
-    
-    </summary>
-    
-      <category term="Python" scheme="http://doc.zxxdb.com/categories/Python/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>python3 解决编码问题</title>
-    <link href="http://doc.zxxdb.com/2018/11/03/68/"/>
-    <id>http://doc.zxxdb.com/2018/11/03/68/</id>
-    <published>2018-11-03T08:04:00.000Z</published>
-    <updated>2018-11-04T16:01:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>解决编码错误 UnicodeEncodeError: ‘ascii’ codec can’t encode characters in position 146-148: ordinal not in range(128)</p><p>import sys<br>import codecs<br>sys.stdout = codecs.getwriter(“utf-8”)(sys.stdout.detach())</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;解决编码错误 UnicodeEncodeError: ‘ascii’ codec can’t encode characters in position 146-148: ordinal not in range(128)&lt;/p&gt;&lt;p&gt;import sys&lt;br&gt;impor
       
     
     </summary>
