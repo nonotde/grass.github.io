@@ -46,15 +46,15 @@
     <link href="http://doc.zxxdb.com/2019/11/27/Java%E7%8E%AF%E5%A2%83%E5%92%8CIDE/"/>
     <id>http://doc.zxxdb.com/2019/11/27/Java环境和IDE/</id>
     <published>2019-11-27T03:42:04.000Z</published>
-    <updated>2019-11-27T06:49:03.358Z</updated>
+    <updated>2020-08-13T11:19:34.982Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Windows："><a href="#Windows：" class="headerlink" title="Windows："></a>Windows：</h2><blockquote><p>JDK <a href="http://qiniu.zxxdb.com/java/jdk-13.0.1_windows-x64_bin.exe" target="_blank" rel="noopener">下载</a></p></blockquote><p><u>IDE：</u></p><blockquote><p>eclipse <a href="http://qiniu.zxxdb.com/java/eclipse-java-2019-09-R-win32-x86_64.zip" target="_blank" rel="noopener">下载</a></p><p>ideaC <a href="http://qiniu.zxxdb.com/java/ideaIC-2019.2.4.exe" target="_blank" rel="noopener">下载</a></p><p>BlueJ <a href="http://qiniu.zxxdb.com/java/BlueJ-windows-422.msi" target="_blank" rel="noopener">下载</a></p></blockquote><h2 id="Mac："><a href="#Mac：" class="headerlink" title="Mac："></a>Mac：</h2><blockquote><p>JDK <a href="http://qiniu.zxxdb.com/java/jdk-13.0.1_osx-x64_bin.dmg" target="_blank" rel="noopener">下载</a></p></blockquote><p><u>IDE:</u></p><blockquote><p>eclipse <a href="http://qiniu.zxxdb.com/java/eclipse-java-2019-09-R-macosx-cocoa-x86_64.dmg" target="_blank" rel="noopener">下载</a></p><p>ideaC <a href="http://qiniu.zxxdb.com/java/ideaIC-2019.2.4.dmg" target="_blank" rel="noopener">下载</a></p><p>BlueJ <a href="http://qiniu.zxxdb.com/java/BlueJ-mac-422n.zip" target="_blank" rel="noopener">下载</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h2 id="Windows："><a href="#Windows：" class="headerlink" title="Windows："></a>Windows：</h2><blockquote><p>JDK8 x86 <a href="http://qiniu.zxxdb.com/java/jdk-8u261-windows-i586.exe" target="_blank" rel="noopener">下载</a></p><p>JDK8 x64 <a href="http://qiniu.zxxdb.com/java/jdk-8u261-windows-x64.exe" target="_blank" rel="noopener">下载</a></p><p>JDK13 <a href="http://qiniu.zxxdb.com/java/jdk-13.0.1_windows-x64_bin.exe" target="_blank" rel="noopener">下载</a></p></blockquote><p><u>IDE：</u></p><blockquote><p>eclipse <a href="http://qiniu.zxxdb.com/java/eclipse-java-2019-09-R-win32-x86_64.zip" target="_blank" rel="noopener">下载</a></p><p>ideaC <a href="http://qiniu.zxxdb.com/java/ideaIC-2019.2.4.exe" target="_blank" rel="noopener">下载</a></p><p>BlueJ <a href="http://qiniu.zxxdb.com/java/BlueJ-windows-422.msi" target="_blank" rel="noopener">下载</a></p></blockquote><h2 id="Mac："><a href="#Mac：" class="headerlink" title="Mac："></a>Mac：</h2><blockquote><p>JDK8 <a href="http://qiniu.zxxdb.com/java/jdk-8u261-macosx-x64.dmg" target="_blank" rel="noopener">下载</a></p><p>JDK <a href="http://qiniu.zxxdb.com/java/jdk-13.0.1_osx-x64_bin.dmg" target="_blank" rel="noopener">下载</a></p></blockquote><p><u>IDE:</u></p><blockquote><p>eclipse <a href="http://qiniu.zxxdb.com/java/eclipse-java-2019-09-R-macosx-cocoa-x86_64.dmg" target="_blank" rel="noopener">下载</a></p><p>ideaC <a href="http://qiniu.zxxdb.com/java/ideaIC-2019.2.4.dmg" target="_blank" rel="noopener">下载</a></p><p>BlueJ <a href="http://qiniu.zxxdb.com/java/BlueJ-mac-422n.zip" target="_blank" rel="noopener">下载</a></p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Windows：&quot;&gt;&lt;a href=&quot;#Windows：&quot; class=&quot;headerlink&quot; title=&quot;Windows：&quot;&gt;&lt;/a&gt;Windows：&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;JDK &lt;a href=&quot;http://qiniu.zxxdb.co
+        &lt;h2 id=&quot;Windows：&quot;&gt;&lt;a href=&quot;#Windows：&quot; class=&quot;headerlink&quot; title=&quot;Windows：&quot;&gt;&lt;/a&gt;Windows：&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;JDK8 x86 &lt;a href=&quot;http://qiniu.zxx
       
     
     </summary>
